@@ -1,0 +1,25 @@
+li{
+  display:inline;  
+  padding:10px;
+}
+#index{
+    background-color:#EDC6F6;
+}
+#winter{
+    background-color:#A0EBEC;
+}
+#summer{
+    background-color: #B88DA4;
+}
+#spring{
+    background-color:#C5ECF4 ;
+}
+#rain{
+    background-color:#F8E7A7 ;
+}
+button{
+    background-color: aqua;
+    border-radius: 5px;
+    padding:5px;
+    border:8px;
+}

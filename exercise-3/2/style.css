@@ -1,0 +1,37 @@
+h1{
+	color:#2E1914;
+	font-size: 30px;
+}
+body{
+	background-color:#CAFDFE;
+}
+a{
+	color:#0C2F25;
+	border:1px solid #C8353B;
+	
+	text-decoration-line: none;
+	padding-right:10px;
+}
+nav{
+	text-align:center;
+	/*border-collapse: collapse;*/
+	padding:10px;
+	font-size:20px;
+/*border:1px solid #C8353B;*/
+
+}
+#about{
+	background-color:#66E393;
+}
+#contact{
+	background-color:#45B797;
+}
+p{
+	text-align:center;
+	font-size:15px;
+
+
+}
+a:hover{
+	color: #571726;
+}
